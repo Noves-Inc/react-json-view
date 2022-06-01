@@ -11,10 +11,10 @@ const PATHS = {
 
 const config = {
     entry: [PATHS.demo + '/src/js/entry.js'],
-    externals: {
-        react: 'React',
-        'react-dom': 'ReactDOM'
-    },
+    // externals: {
+    //     react: 'React',
+    //     'react-dom': 'ReactDOM'
+    // },
     output: {
         path: PATHS.demo + '/dist',
         filename: 'main.js',

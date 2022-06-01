@@ -49,13 +49,13 @@ import ReactJson from 'react-json-view';
 <script src="https://unpkg.com/react-json-view"></script>
 <script type="text/javascript">
   // reactJsonView is a global variable
-  var jsonView = new reactJsonView.default({
+  {/* var jsonView = new reactJsonView.default({
     src: {test:true}
   });
   ReactDOM.render(
     jsonView.render(),
     document.getElementById('app-container')
-  );
+  ); */}
 </script>
 ...
 </html>
