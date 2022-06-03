@@ -102,5 +102,6 @@
     "directories": {
         "docs": "docs",
         "test": "test"
-    }
+    },
+    "files": ["dist"]
 }
